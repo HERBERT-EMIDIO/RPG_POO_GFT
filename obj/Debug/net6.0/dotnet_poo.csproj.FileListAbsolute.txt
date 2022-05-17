@@ -1,0 +1,15 @@
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\DOTNET_POO\bin\Debug\net6.0\dotnet_poo.exe
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\DOTNET_POO\bin\Debug\net6.0\dotnet_poo.deps.json
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\DOTNET_POO\bin\Debug\net6.0\dotnet_poo.runtimeconfig.json
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\DOTNET_POO\bin\Debug\net6.0\dotnet_poo.dll
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\DOTNET_POO\bin\Debug\net6.0\ref\dotnet_poo.dll
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\DOTNET_POO\bin\Debug\net6.0\dotnet_poo.pdb
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\DOTNET_POO\obj\Debug\net6.0\dotnet_poo.csproj.AssemblyReference.cache
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\DOTNET_POO\obj\Debug\net6.0\dotnet_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\DOTNET_POO\obj\Debug\net6.0\dotnet_poo.AssemblyInfoInputs.cache
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\DOTNET_POO\obj\Debug\net6.0\dotnet_poo.AssemblyInfo.cs
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\DOTNET_POO\obj\Debug\net6.0\dotnet_poo.csproj.CoreCompileInputs.cache
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\DOTNET_POO\obj\Debug\net6.0\dotnet_poo.dll
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\DOTNET_POO\obj\Debug\net6.0\ref\dotnet_poo.dll
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\DOTNET_POO\obj\Debug\net6.0\dotnet_poo.pdb
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\DOTNET_POO\obj\Debug\net6.0\dotnet_poo.genruntimeconfig.cache

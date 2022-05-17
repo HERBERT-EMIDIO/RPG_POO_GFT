@@ -1,0 +1,15 @@
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\abstrando_jogo_rpg\bin\Debug\net6.0\abstrando_jogo_rpg.exe
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\abstrando_jogo_rpg\bin\Debug\net6.0\abstrando_jogo_rpg.deps.json
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\abstrando_jogo_rpg\bin\Debug\net6.0\abstrando_jogo_rpg.runtimeconfig.json
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\abstrando_jogo_rpg\bin\Debug\net6.0\abstrando_jogo_rpg.dll
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\abstrando_jogo_rpg\bin\Debug\net6.0\ref\abstrando_jogo_rpg.dll
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\abstrando_jogo_rpg\bin\Debug\net6.0\abstrando_jogo_rpg.pdb
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\abstrando_jogo_rpg\obj\Debug\net6.0\abstrando_jogo_rpg.csproj.AssemblyReference.cache
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\abstrando_jogo_rpg\obj\Debug\net6.0\abstrando_jogo_rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\abstrando_jogo_rpg\obj\Debug\net6.0\abstrando_jogo_rpg.AssemblyInfoInputs.cache
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\abstrando_jogo_rpg\obj\Debug\net6.0\abstrando_jogo_rpg.AssemblyInfo.cs
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\abstrando_jogo_rpg\obj\Debug\net6.0\abstrando_jogo_rpg.csproj.CoreCompileInputs.cache
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\abstrando_jogo_rpg\obj\Debug\net6.0\abstrando_jogo_rpg.dll
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\abstrando_jogo_rpg\obj\Debug\net6.0\ref\abstrando_jogo_rpg.dll
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\abstrando_jogo_rpg\obj\Debug\net6.0\abstrando_jogo_rpg.pdb
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Jogo_RPG_GFT_START5\abstrando_jogo_rpg\obj\Debug\net6.0\abstrando_jogo_rpg.genruntimeconfig.cache
